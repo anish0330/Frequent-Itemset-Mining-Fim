@@ -1,0 +1,9 @@
+name: freq_itemset_jewellery
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - matplotlib==3.8.0
+  - numpy==1.26.4
+  - fim - 6.30
+  - IPython - 8.22.2
